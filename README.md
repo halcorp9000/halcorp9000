@@ -1,4 +1,14 @@
-## Hi there 👋
+## ✌️ About Me
+Im learning GitHub and building great stuff.
+
+## Current Focus
+
+- Exploring GitHub discussions
+- Learning markdown and making my first commit
+
+## Reach Me
+[at my place] (www.thisdoesntexist.com)
+
 
 <
 
